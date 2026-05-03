@@ -1,5 +1,5 @@
 [versions]
-absolute = "3.0.3"
+absolute = "3.4.3"
 
 [libraries]
 absolute = { module = "io.ktor:ktor-server-core", version.ref = "absolute" }
